@@ -8,6 +8,6 @@ namespace TestProg
 {
     class Data
     {
-        public int AgeinfoWA { get; set; }
+        public int AgeDate { get; set; }
     }
 }
